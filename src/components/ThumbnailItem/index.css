@@ -1,0 +1,19 @@
+/* Write your code here. */
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-right: 60px;
+}
+.button {
+  border: none;
+  height: 18px;
+  width: 18px;
+  display: flex;
+  justify-content: flex-start;
+  opacity: 0.5;
+}
+.active-image {
+  opacity: 1;
+}
